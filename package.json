@@ -1,0 +1,36 @@
+{
+  "name": "package.json",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@primevue/themes": "^4.0.0-rc.2",
+    "ant-design-vue": "^4.0.0-rc.6",
+    "axios": "^1.7.2",
+    "bootstrap-vue": "^2.23.1",
+    "chart.js": "^4.4.3",
+    "dr-vue-echarts": "^1.0.14",
+    "element-plus": "^2.7.6",
+    "pinia": "^2.1.7",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.0.0-rc.2",
+    "sass": "^1.77.0",
+    "scss": "^0.2.4",
+    "sweetalert2": "^11.12.0",
+    "vue": "^3.4.29",
+    "vue-chart.js": "^0.2.0",
+    "vue-chartjs": "^5.3.1",
+    "vue-router": "^4.3.3",
+    "vuejs-paginate-next": "^1.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8",
+    "vite-plugin-mock": "^3.0.2"
+  }
+}
